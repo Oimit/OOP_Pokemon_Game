@@ -1,5 +1,5 @@
 # OOP_Ex2_Pokemon
-Pokemon JAVA Project by Amit cohen, Shahak Nir
+Pokemon JAVA Project by Amit Cohen & Shahak Nir.
 
 Background:
 This next file will explain the purpose of this assignment.
